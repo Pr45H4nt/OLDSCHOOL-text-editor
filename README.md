@@ -1,2 +1,2 @@
 # OLDSCHOOL-text-editor
-A simple commandline text editor having all the function such as undo redo save open and many other features
+I engineered a terminal-based typewriter, a marvel of modern technology infused with the timeless charm of classic writing tools. Equipped with powerful editing functions, including undo, redo, file opening and editing, and file saving capabilities, this creation is a testament to my ingenuity and technical prowess. And, I did all of this without relying on any external assistance or resources, elevating it to an even more impressive feat of self-reliance and dedication.
