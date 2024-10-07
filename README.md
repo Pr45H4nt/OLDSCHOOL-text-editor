@@ -1,2 +1,2 @@
 # OLDSCHOOL-text-editor
-I engineered a terminal-based typewriter, a marvel of modern technology infused with the timeless charm of classic writing tools. Equipped with powerful editing functions, including undo, redo, file opening and editing, and file saving capabilities, this creation is a testament to my ingenuity and technical prowess. And, I did all of this without relying on any external assistance or resources, elevating it to an even more impressive feat of self-reliance and dedication.
+A terminal-based text editor that has the classic appeal of traditional typewriters. This tool is equipped with essential features such as undo, redo, file opening, editing, and saving capabilities. It was built entirely from scratch, without external assistance or resources.
